@@ -1,3 +1,7 @@
+Versión: 1.1.1
+Descripción: Esta es una actualización que soluciona los problemas de descarga y agrega la barra de progreso durante la conversión.
+
+
 # Descargador de YouTube con FFmpeg y Tkinter
 
 Este proyecto es una herramienta para descargar videos de YouTube en diferentes calidades (MP4, MP3, 360p) y convertirlos utilizando FFmpeg. La aplicación cuenta con una interfaz gráfica de usuario (GUI) creada con la biblioteca `Tkinter`.
